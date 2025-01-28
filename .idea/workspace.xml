@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="149f4c2c-555c-4532-98ba-82c1cbf8fe03" name="Changes" comment="Some algorithms">
-      <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosYouTube/BusquedaBinaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="149f4c2c-555c-4532-98ba-82c1cbf8fe03" name="Changes" comment="Example of binary search" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +150,7 @@
       <workItem from="1737048856429" duration="23000" />
       <workItem from="1737054030578" duration="1750000" />
       <workItem from="1737130048124" duration="1484000" />
-      <workItem from="1737647630696" duration="2003000" />
+      <workItem from="1737647630696" duration="3214000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit">
       <option name="closed" value="true" />
@@ -179,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737130643180</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Example of binary search">
+      <option name="closed" value="true" />
+      <created>1737650114179</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737650114179</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +204,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init commit" />
     <MESSAGE value="Some algorithms" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some algorithms" />
+    <MESSAGE value="Example of binary search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Example of binary search" />
   </component>
 </project>
