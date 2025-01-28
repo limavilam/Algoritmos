@@ -1,6 +1,6 @@
 package EjerciciosAlgoritmosYouTube;
 
-public class BusquedaBinaria {
+public class BusquedaBinariaEx1 {
     public static void main(String[] args) {
         /*
         Divide y venceras: Compara el elemento central con el valor buscado.
@@ -8,7 +8,7 @@ public class BusquedaBinaria {
         Si es mayor, descarta la mitad derecha.
         Repite hasta encontrar el valor o hasta que no queden elementos por buscar.
          */
-        int[] contenedor = {10,20,30,40,50,60,70,80,90};
+        int[] contenedor = {10,20,30,40,50,60,70,80};
         int objetivo = 50;
 
         //Se llama al metodo de busqueda binaria.
