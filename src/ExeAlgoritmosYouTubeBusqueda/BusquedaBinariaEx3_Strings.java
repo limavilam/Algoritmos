@@ -1,4 +1,4 @@
-package EjerciciosAlgoritmosYouTube;
+package ExeAlgoritmosYouTubeBusqueda;
 
 public class BusquedaBinariaEx3_Strings {
 

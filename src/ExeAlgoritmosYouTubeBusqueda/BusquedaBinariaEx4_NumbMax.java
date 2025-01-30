@@ -1,4 +1,4 @@
-package EjerciciosAlgoritmosYouTube;
+package ExeAlgoritmosYouTubeBusqueda;
 
 public class BusquedaBinariaEx4_NumbMax {
     //Búsqueda del primer numero mayor o igual al objetivo

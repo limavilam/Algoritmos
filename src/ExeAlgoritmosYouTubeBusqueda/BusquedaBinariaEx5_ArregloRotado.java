@@ -1,4 +1,4 @@
-package EjerciciosAlgoritmosYouTube;
+package ExeAlgoritmosYouTubeBusqueda;
 
 public class BusquedaBinariaEx5_ArregloRotado {
     public static void main(String[] args) {

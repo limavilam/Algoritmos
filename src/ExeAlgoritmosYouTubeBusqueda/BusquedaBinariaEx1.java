@@ -1,4 +1,4 @@
-package EjerciciosAlgoritmosYouTube;
+package ExeAlgoritmosYouTubeBusqueda;
 
 public class BusquedaBinariaEx1 {
     public static void main(String[] args) {
