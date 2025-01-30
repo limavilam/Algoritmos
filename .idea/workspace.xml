@@ -6,14 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="149f4c2c-555c-4532-98ba-82c1cbf8fe03" name="Changes" comment="Exercises Binary Search">
       <change afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaHashModulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaHashPlegamiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaHashPlegamientoEncadenamiento.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BúsquedaHashCuadrado.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/HashModuloContarColisiones.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosAlgoritmosYouTube/BusquedaBinariaEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaBinariaEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosAlgoritmosYouTube/BusquedaBinariaEx2_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaBinariaEx2_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosAlgoritmosYouTube/BusquedaBinariaEx3_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaBinariaEx3_Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosAlgoritmosYouTube/BusquedaBinariaEx4_NumbMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaBinariaEx4_NumbMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjerciciosAlgoritmosYouTube/BusquedaBinariaEx5_ArregloRotado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaBinariaEx5_ArregloRotado.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +58,8 @@
     "Application.BusquedaBinariaEx4.executor": "Run",
     "Application.BusquedaBinariaEx5_ArregloRotado.executor": "Run",
     "Application.BusquedaHashModulo.executor": "Run",
+    "Application.BusquedaHashPlegamiento.executor": "Run",
+    "Application.BusquedaHashPlegamientoEncadenamiento.executor": "Run",
     "Application.BúsquedaHashCuadrado.executor": "Run",
     "Application.Cap1.executor": "Run",
     "Application.HashModuloContarColisiones.executor": "Run",
@@ -85,35 +84,35 @@
       <recent name="$PROJECT_DIR$/Lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BusquedaHashModulo">
-    <configuration name="BusquedaBinariaEx4_NumbMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExeAlgoritmosYouTubeBusqueda.BusquedaBinariaEx4_NumbMax" />
-      <module name="AlgoritmosUPrinceton" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExeAlgoritmosYouTubeBusqueda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BusquedaBinariaEx5_ArregloRotado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExeAlgoritmosYouTubeBusqueda.BusquedaBinariaEx5_ArregloRotado" />
-      <module name="AlgoritmosUPrinceton" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExeAlgoritmosYouTubeBusqueda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BusquedaHashPlegamientoEncadenamiento">
     <configuration name="BusquedaHashModulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExeAlgoritmosYouTubeBusqueda.BusquedaHashModulo" />
+      <module name="AlgoritmosUPrinceton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExeAlgoritmosYouTubeBusqueda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusquedaHashPlegamiento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExeAlgoritmosYouTubeBusqueda.BusquedaHashPlegamiento" />
+      <module name="AlgoritmosUPrinceton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExeAlgoritmosYouTubeBusqueda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusquedaHashPlegamientoEncadenamiento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExeAlgoritmosYouTubeBusqueda.BusquedaHashPlegamientoEncadenamiento" />
       <module name="AlgoritmosUPrinceton" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BusquedaHashPlegamientoEncadenamiento" />
+        <item itemvalue="Application.BusquedaHashPlegamiento" />
         <item itemvalue="Application.BusquedaHashModulo" />
-        <item itemvalue="Application.BúsquedaHashCuadrado" />
         <item itemvalue="Application.HashModuloContarColisiones" />
-        <item itemvalue="Application.BusquedaBinariaEx5_ArregloRotado" />
-        <item itemvalue="Application.BusquedaBinariaEx4_NumbMax" />
+        <item itemvalue="Application.BúsquedaHashCuadrado" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +183,7 @@
       <workItem from="1737130048124" duration="1484000" />
       <workItem from="1737647630696" duration="3214000" />
       <workItem from="1738065180177" duration="11668000" />
-      <workItem from="1738249373894" duration="6229000" />
+      <workItem from="1738249373894" duration="7797000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit">
       <option name="closed" value="true" />
@@ -234,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738086197189</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Exercises Binary Search">
+      <option name="closed" value="true" />
+      <created>1738256025567</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738256025567</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
