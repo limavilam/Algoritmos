@@ -1,4 +1,4 @@
-package ExeAlgoritmosYouTubeBusqueda;
+package ExeAlgoritmosYTBusqueda;
 
 public class BusquedaHashPlegamiento {
     public static void main(String[] args) {

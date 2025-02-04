@@ -1,4 +1,4 @@
-package ExeAlgoritmosYouTubeBusqueda;
+package ExeAlgoritmosYTBusqueda;
 
 /*
 H(K) = digitosCentrales(K2)

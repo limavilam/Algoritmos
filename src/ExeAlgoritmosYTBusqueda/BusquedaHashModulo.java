@@ -1,4 +1,4 @@
-package ExeAlgoritmosYouTubeBusqueda;
+package ExeAlgoritmosYTBusqueda;
 
 /*
 Función hash más común es la de operación módulo, donde h(k) = k mod N

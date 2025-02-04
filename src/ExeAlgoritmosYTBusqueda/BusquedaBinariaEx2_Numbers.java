@@ -1,4 +1,4 @@
-package ExeAlgoritmosYouTubeBusqueda;
+package ExeAlgoritmosYTBusqueda;
 
 public class BusquedaBinariaEx2_Numbers {
     //Búsqueda binaria de un número en un arreglo de enteros
