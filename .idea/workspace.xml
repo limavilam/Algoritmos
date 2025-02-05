@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="149f4c2c-555c-4532-98ba-82c1cbf8fe03" name="Changes" comment="Ejercicio búsqueda por transformación de llaves parte 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaBinariaEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYTBusqueda/BusquedaBinariaEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaBinariaEx2_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYTBusqueda/BusquedaBinariaEx2_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaBinariaEx3_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYTBusqueda/BusquedaBinariaEx3_Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaBinariaEx4_NumbMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYTBusqueda/BusquedaBinariaEx4_NumbMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaBinariaEx5_ArregloRotado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYTBusqueda/BusquedaBinariaEx5_ArregloRotado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaHashModulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYTBusqueda/BusquedaHashModulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaHashPlegamiento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYTBusqueda/BusquedaHashPlegamiento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BusquedaHashPlegamientoEncadenamiento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYTBusqueda/BusquedaHashPlegamientoEncadenamiento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/BúsquedaHashCuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYTBusqueda/BúsquedaHashCuadrado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExeAlgoritmosYouTubeBusqueda/HashModuloContarColisiones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYTBusqueda/HashModuloContarColisiones.java" afterDir="false" />
-    </list>
+    <list default="true" id="149f4c2c-555c-4532-98ba-82c1cbf8fe03" name="Changes" comment="Ejercicio búsqueda por transformación de llaves parte 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +177,7 @@
       <workItem from="1737647630696" duration="3214000" />
       <workItem from="1738065180177" duration="11668000" />
       <workItem from="1738249373894" duration="8247000" />
-      <workItem from="1738682001944" duration="3028000" />
+      <workItem from="1738682001944" duration="3652000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit">
       <option name="closed" value="true" />
@@ -263,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738257501207</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Ejercicio búsqueda por transformación de llaves parte 2">
+      <option name="closed" value="true" />
+      <created>1738706959447</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738706959448</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
