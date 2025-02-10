@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="149f4c2c-555c-4532-98ba-82c1cbf8fe03" name="Changes" comment="ALgoritmos de ordenamiento parte 2">
-      <change afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYTOrdenamiento/BinaryInsertionSortExe2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYTOrdenamiento/InsertionSortExe1Ascendente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYTOrdenamiento/InsertionSortExe1Descendete.java" afterDir="false" />
+    <list default="true" id="149f4c2c-555c-4532-98ba-82c1cbf8fe03" name="Changes" comment="Exercises on sorting algorithms: Insertion Sort Part2">
+      <change afterPath="$PROJECT_DIR$/src/ExeAlgoritmosYTOrdenamiento/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +71,7 @@
     "Application.OrdenamientoInsertDescendente.executor": "Run",
     "Application.QuickFind.executor": "Run",
     "Application.QuickUnion.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -95,7 +94,7 @@
       <recent name="ExeAlgoritmosYTOrdenamiento" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryInsertionSortExe2">
+  <component name="RunManager" selected="Application.SelectionSort">
     <configuration name="BinaryInsertionSortExe2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExeAlgoritmosYTOrdenamiento.BinaryInsertionSortExe2" />
       <module name="AlgoritmosUPrinceton" />
@@ -148,8 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrdenamientoInsertDescendente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExeAlgoritmosYTOrdenamiento.OrdenamientoInsertDescendente" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExeAlgoritmosYTOrdenamiento.SelectionSort" />
       <module name="AlgoritmosUPrinceton" />
       <extension name="coverage">
         <pattern>
@@ -163,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BinaryInsertionSortExe2" />
         <item itemvalue="Application.InsertionSortExe1Descendete" />
         <item itemvalue="Application.InsertionSortExe1Ascendente" />
         <item itemvalue="Application.OrdenamientoBinaryInsertionSort" />
-        <item itemvalue="Application.OrdenamientoInsertDescendente" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +197,8 @@
       <workItem from="1738682001944" duration="3652000" />
       <workItem from="1738717446069" duration="1902000" />
       <workItem from="1738775701232" duration="4301000" />
-      <workItem from="1738862433751" duration="1300000" />
+      <workItem from="1738862433751" duration="2060000" />
+      <workItem from="1739212517453" duration="534000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit">
       <option name="closed" value="true" />
@@ -312,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738862536049</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Exercises on sorting algorithms: Insertion Sort Part2">
+      <option name="closed" value="true" />
+      <created>1738863803204</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738863803204</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,6 +348,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="ALgoritmos de ordenamiento parte 1" />
     <MESSAGE value="ALgoritmos de ordenamiento parte 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ALgoritmos de ordenamiento parte 2" />
+    <MESSAGE value="Exercises on sorting algorithms: Insertion Sort Part2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises on sorting algorithms: Insertion Sort Part2" />
   </component>
 </project>
