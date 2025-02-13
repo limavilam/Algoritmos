@@ -2,7 +2,7 @@ package ExeAlgoritmosYTOrdenamiento;
 
 import java.util.Arrays;
 
-public class OrdenamientoInsert {
+public class InsertionSort {
 
     public static void main(String[] args) {
 
