@@ -12,7 +12,7 @@ public class SumarNumerosCicloWhile {
 
         double contador = 0;
 
-        while (contador < cantidadNumeros) {
+        while (contador <= cantidadNumeros) {
             System.out.println("Ingrese el numero que desea sumar:");
             double numero = scanner.nextDouble();
             contador = contador + numero;
