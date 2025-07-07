@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="149f4c2c-555c-4532-98ba-82c1cbf8fe03" name="Changes" comment="Exercises on sorting algorithms: Heap Sort">
-      <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosSENA/SumaNumerosCicloFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosSENA/SumaPares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosSENA/SumarNumerosCicloWhile.java" afterDir="false" />
+    <list default="true" id="149f4c2c-555c-4532-98ba-82c1cbf8fe03" name="Changes" comment="Exercises to improve my logic">
+      <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosSENA/AreasVolumenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosSENA/BisiestoCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosSENA/CalculadoraEdad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AreaPerimetro.executor": "Run",
+    "Application.AreasVolumenes.executor": "Run",
     "Application.BinaryInsertionSortExe2.executor": "Run",
+    "Application.BisiestoCalculadora.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.BusquedaBinaria.executor": "Run",
     "Application.BusquedaBinariaEx1.executor": "Run",
@@ -65,13 +68,24 @@
     "Application.BusquedaHashPlegamiento.executor": "Run",
     "Application.BusquedaHashPlegamientoEncadenamiento.executor": "Run",
     "Application.BúsquedaHashCuadrado.executor": "Run",
+    "Application.CalculadoraDias.executor": "Run",
+    "Application.CalculadoraEdad.executor": "Run",
     "Application.Cap1.executor": "Run",
+    "Application.ContadorDigitos.executor": "Run",
+    "Application.ContadorNumeros.executor": "Run",
+    "Application.ContadorNumerosFuncion.executor": "Run",
     "Application.HashModuloContarColisiones.executor": "Run",
     "Application.InsertionSortExe1.executor": "Run",
     "Application.InsertionSortExe1Descendete.executor": "Run",
+    "Application.NumerosPrimos.executor": "Run",
+    "Application.NumerosPrimosR.executor": "Run",
+    "Application.NumerosPrimosRaiz.executor": "Run",
     "Application.OrdenamientoBinaryInsertionSort.executor": "Run",
     "Application.OrdenamientoInsert.executor": "Run",
     "Application.OrdenamientoInsertDescendente.executor": "Run",
+    "Application.Palindromo.executor": "Run",
+    "Application.PalindromoNumeros.executor": "Run",
+    "Application.Primos.executor": "Run",
     "Application.Promedio.executor": "Run",
     "Application.QuickFind.executor": "Run",
     "Application.QuickUnion.executor": "Run",
@@ -101,22 +115,9 @@
       <recent name="ExeAlgoritmosYTOrdenamiento" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumaPares">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExeAlgoritmosYTOrdenamiento.BubbleSort" />
-      <module name="AlgoritmosUPrinceton" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExeAlgoritmosYTOrdenamiento.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Promedio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.Promedio" />
+  <component name="RunManager" selected="Application.BisiestoCalculadora">
+    <configuration name="AreasVolumenes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.AreasVolumenes" />
       <module name="AlgoritmosUPrinceton" />
       <extension name="coverage">
         <pattern>
@@ -128,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumaNumerosCicloFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.SumaNumerosCicloFor" />
+    <configuration name="BisiestoCalculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.BisiestoCalculadora" />
       <module name="AlgoritmosUPrinceton" />
       <extension name="coverage">
         <pattern>
@@ -141,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumaPares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.SumaPares" />
+    <configuration name="CalculadoraEdad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.CalculadoraEdad" />
       <module name="AlgoritmosUPrinceton" />
       <extension name="coverage">
         <pattern>
@@ -154,8 +155,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumarNumerosCicloWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.SumarNumerosCicloWhile" />
+    <configuration name="ContadorDigitos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.ContadorDigitos" />
+      <module name="AlgoritmosUPrinceton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EjerciciosAlgoritmosSENA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromoNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.PalindromoNumeros" />
       <module name="AlgoritmosUPrinceton" />
       <extension name="coverage">
         <pattern>
@@ -169,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumaPares" />
-        <item itemvalue="Application.SumarNumerosCicloWhile" />
-        <item itemvalue="Application.SumaNumerosCicloFor" />
-        <item itemvalue="Application.Promedio" />
-        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.BisiestoCalculadora" />
+        <item itemvalue="Application.CalculadoraEdad" />
+        <item itemvalue="Application.AreasVolumenes" />
+        <item itemvalue="Application.PalindromoNumeros" />
+        <item itemvalue="Application.ContadorDigitos" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +226,16 @@
       <workItem from="1740095851840" duration="824000" />
       <workItem from="1741814708434" duration="1026000" />
       <workItem from="1747960637928" duration="458000" />
-      <workItem from="1747961182172" duration="2577000" />
+      <workItem from="1747961182172" duration="2962000" />
+      <workItem from="1747964458614" duration="25000" />
+      <workItem from="1747964486994" duration="17000" />
+      <workItem from="1749074265550" duration="4182000" />
+      <workItem from="1749132743197" duration="8180000" />
+      <workItem from="1749770812873" duration="14000" />
+      <workItem from="1749770845873" duration="2702000" />
+      <workItem from="1749773773309" duration="3784000" />
+      <workItem from="1750709860119" duration="5588000" />
+      <workItem from="1751924797655" duration="4348000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit">
       <option name="closed" value="true" />
@@ -358,7 +381,39 @@
       <option name="project" value="LOCAL" />
       <updated>1741815298002</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Exercises SENA">
+      <option name="closed" value="true" />
+      <created>1749082116901</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1749082116901</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Exercises mejoramiento de lógica">
+      <option name="closed" value="true" />
+      <created>1749141441632</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1749141441632</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Exercises to improve my logic">
+      <option name="closed" value="true" />
+      <created>1749775387252</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1749775387252</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Exercises to improve my logic">
+      <option name="closed" value="true" />
+      <created>1750709879019</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1750709879019</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,6 +445,9 @@
     <MESSAGE value="Exercises on sorting algorithms: Selection Sort Part1" />
     <MESSAGE value="Exercises on sorting algorithms: Bubble Sort Part1" />
     <MESSAGE value="Exercises on sorting algorithms: Heap Sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercises on sorting algorithms: Heap Sort" />
+    <MESSAGE value="Exercises SENA" />
+    <MESSAGE value="Exercises mejoramiento de lógica" />
+    <MESSAGE value="Exercises to improve my logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises to improve my logic" />
   </component>
 </project>
