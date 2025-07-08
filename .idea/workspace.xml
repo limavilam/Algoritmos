@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="149f4c2c-555c-4532-98ba-82c1cbf8fe03" name="Changes" comment="Exercises to improve my logic">
-      <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosSENA/AreasVolumenes.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosSENA/BisiestoCalculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosSENA/CalculadoraEdad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosSENA/CalculadoraNotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosSENA/Capital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosSENA/ConversorTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosSENA/ListadoNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjerciciosAlgoritmosSENA/Maraton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,13 +73,18 @@
     "Application.BúsquedaHashCuadrado.executor": "Run",
     "Application.CalculadoraDias.executor": "Run",
     "Application.CalculadoraEdad.executor": "Run",
+    "Application.CalculadoraNotas.executor": "Run",
     "Application.Cap1.executor": "Run",
+    "Application.Capital.executor": "Run",
     "Application.ContadorDigitos.executor": "Run",
     "Application.ContadorNumeros.executor": "Run",
     "Application.ContadorNumerosFuncion.executor": "Run",
+    "Application.ConversorTemperatura.executor": "Run",
     "Application.HashModuloContarColisiones.executor": "Run",
     "Application.InsertionSortExe1.executor": "Run",
     "Application.InsertionSortExe1Descendete.executor": "Run",
+    "Application.ListadoNumeros.executor": "Run",
+    "Application.Maraton.executor": "Run",
     "Application.NumerosPrimos.executor": "Run",
     "Application.NumerosPrimosR.executor": "Run",
     "Application.NumerosPrimosRaiz.executor": "Run",
@@ -115,9 +123,9 @@
       <recent name="ExeAlgoritmosYTOrdenamiento" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BisiestoCalculadora">
-    <configuration name="AreasVolumenes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.AreasVolumenes" />
+  <component name="RunManager" selected="Application.ListadoNumeros">
+    <configuration name="CalculadoraNotas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.CalculadoraNotas" />
       <module name="AlgoritmosUPrinceton" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +137,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BisiestoCalculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.BisiestoCalculadora" />
+    <configuration name="Capital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.Capital" />
       <module name="AlgoritmosUPrinceton" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +150,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculadoraEdad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.CalculadoraEdad" />
+    <configuration name="ConversorTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.ConversorTemperatura" />
       <module name="AlgoritmosUPrinceton" />
       <extension name="coverage">
         <pattern>
@@ -155,8 +163,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContadorDigitos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.ContadorDigitos" />
+    <configuration name="ListadoNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.ListadoNumeros" />
       <module name="AlgoritmosUPrinceton" />
       <extension name="coverage">
         <pattern>
@@ -168,8 +176,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromoNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.PalindromoNumeros" />
+    <configuration name="Maraton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosAlgoritmosSENA.Maraton" />
       <module name="AlgoritmosUPrinceton" />
       <extension name="coverage">
         <pattern>
@@ -183,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BisiestoCalculadora" />
-        <item itemvalue="Application.CalculadoraEdad" />
-        <item itemvalue="Application.AreasVolumenes" />
-        <item itemvalue="Application.PalindromoNumeros" />
-        <item itemvalue="Application.ContadorDigitos" />
+        <item itemvalue="Application.ListadoNumeros" />
+        <item itemvalue="Application.Capital" />
+        <item itemvalue="Application.CalculadoraNotas" />
+        <item itemvalue="Application.ConversorTemperatura" />
+        <item itemvalue="Application.Maraton" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +243,9 @@
       <workItem from="1749770845873" duration="2702000" />
       <workItem from="1749773773309" duration="3784000" />
       <workItem from="1750709860119" duration="5588000" />
-      <workItem from="1751924797655" duration="4348000" />
+      <workItem from="1751924797655" duration="5127000" />
+      <workItem from="1752007219708" duration="7997000" />
+      <workItem from="1752015606832" duration="774000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit">
       <option name="closed" value="true" />
@@ -413,7 +423,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750709879019</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Exercises to improve my logic">
+      <option name="closed" value="true" />
+      <created>1751929318764</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1751929318764</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
