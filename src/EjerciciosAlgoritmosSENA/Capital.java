@@ -17,14 +17,14 @@ public class Capital {
         } else {
             double tasa = tasaPorcentaje / 100;
             double monto = capital;
-            int años = 0;
+            int anios = 0;
 
             while (monto < 2 * capital) {
                 monto *= (1 + tasa);
-                años++;
+                anios++;
             }
 
-            System.out.println("El capital se duplicará en " + años + " años.");
+            System.out.println("El capital se duplicará en " + anios + " años.");
         }
     }
 }

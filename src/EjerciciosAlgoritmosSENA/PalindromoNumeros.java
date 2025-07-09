@@ -6,7 +6,7 @@ public class PalindromoNumeros {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Ingrese el número que quiere verificar si es palíndromo:\n");
+        System.out.println("Ingrese el número que quiere verificar si es palíndromo:");
         int numero = scanner.nextInt();
         int numeroOrginal = numero;
 
